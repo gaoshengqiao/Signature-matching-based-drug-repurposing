@@ -1,1 +1,1 @@
-# Signature-matching-based-drug-repurposing
+# Signature-matching with LINCS approved drugs
